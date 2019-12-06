@@ -1,0 +1,42 @@
+CUSTOMER RECEIPT      TIME : 2019-12-06T10:24:49
+==========================================
+Item               Price       Quantity    model.Discount   FinalPrice
+----               -----       --------    --------   ----------
+GoatMilk           $59.90      10.0        N/A         $59.90
+Milk               $39.90      10.0        $5.00       $34.90
+                                                      ----------
+                                                      $94.80
+
+CUSTOMER RECEIPT      TIME : 2019-12-06T10:25:26
+==========================================
+Item               Price       Quantity    model.Discount   FinalPrice
+----               -----       --------    --------   ----------
+GoatMilk           $299.50     50.0        N/A         $299.50
+                                                      ----------
+                                                      $299.50
+
+CUSTOMER RECEIPT      TIME : 2019-12-06T10:26:54
+==========================================
+Item               Price       Quantity    model.Discount   FinalPrice
+----               -----       --------    --------   ----------
+GoatMilk           $5.99       10.0        N/A         $59.90
+                                                      ----------
+                                                      $59.90
+
+CUSTOMER RECEIPT      TIME : 2019-12-06T10:27:40
+==========================================
+Item               Price       Quantity    model.Discount   FinalPrice
+----               -----       --------    --------   ----------
+Milk               $3.99       10.0        $5.00       $34.90
+GoatMilk           $5.99       10.0        N/A         $59.90
+                                                      ----------
+                                                      $94.80
+
+CUSTOMER RECEIPT      TIME : 2019-12-06T10:38:29
+==========================================
+Item               Price       Quantity    model.Discount   FinalPrice
+----               -----       --------    --------   ----------
+GoatMilk           $5.99       305.0       N/A         $1,826.95
+                                                      ----------
+                                                      $1,826.95
+

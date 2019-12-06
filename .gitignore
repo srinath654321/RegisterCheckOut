@@ -1,0 +1,13 @@
+.idea/
+target/
+bin/
+dependency-reduced-pom.xml
+*.iml
+*.log
+*.log.zip
+.project
+.settings
+.classpath
+docker/logger-service/logs/**/*.[lL][oO][gG]
+ari-ansible-roles
+*.jar
