@@ -15,7 +15,7 @@ public class AutomatedCheckout {
 	private static Map<Integer, Discount> discountMap = readDiscountsFile();
 	private static List<Inventory> inventoryList = readInventoryFile();
 
-	private static final String HEADER = "Item               Price       Quantity    model.Discount   FinalPrice";
+	private static final String HEADER = "Item               Price       Quantity    Discount   FinalPrice";
 	private static final String HEADER_LINE = "----               -----       --------    --------   ----------";
 	private static final String SINGLE_SPACE = " ";
 	private static final String BOTTOM_LINE = "                                                      ----------";
